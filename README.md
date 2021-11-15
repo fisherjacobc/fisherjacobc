@@ -1,3 +1,4 @@
+[![FavOS](https://img.shields.io/badge/Favorite%20OS%3F-Linux-blue.svg)](https://shields.io/)
 ![status](https://dev.discordprofiles.me/badge/status/756614666066591836)
 ![playing](https://dev.discordprofiles.me/badge/playing/756614666066591836)
 ![vscode](https://dev.discordprofiles.me/badge/vscode/756614666066591836)
@@ -7,4 +8,7 @@
 </a>
 <a href="https://github.com/F1sxher/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1sxher&layout=compact&theme=vue-dark" height="165"/>
+</a>
+<a href="https://github.com/F1sxher/">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=F1sxher&theme=vue-dark" height="165"/>
 </a>
