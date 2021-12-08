@@ -23,10 +23,10 @@
 ## You can view my github stats below ⬇️
 
 <a href="https://github.com/F1sxher/">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=F1sxher&theme=vue-dark" height="200"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=F1sxher&theme=vue-dark" height="150"/>
 </a>
 <a href="https://github.com/F1sxher/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1sxher&layout=compact&theme=vue-dark" height="200"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1sxher&layout=compact&theme=vue-dark" height="150"/>
 </a>
 <a href="https://github.com/F1sxher/">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=F1sxher&count_private=true&show_icons=true&hide=contribs&theme=vue-dark " width="1000"/>
