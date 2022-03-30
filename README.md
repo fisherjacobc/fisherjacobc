@@ -23,7 +23,7 @@
 ### Founder of [@tyradigital](https://github.com/tyradigital)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=bash,cloudflare,css,discord,bots,express,git,html,java,js,ts,linux,lua,md,mongodb,nestjs,nextjs,nodejs,powershell,raspberrypi,react,tailwind,vscode,workers)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,cloudflare,css,express,git,html,java,js,ts,linux,lua,mongodb,nestjs,nextjs,nodejs,powershell,raspberrypi,react,tailwind,vscode,workers)](https://skillicons.dev)
 
 ## I wish to learn much more about
-[![My Skills](https://skillicons.dev/icons?i=angular,bash,cs,deno,dotnet,electron,py,redis,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,cs,deno,dotnet,electron,py,redis,visualstudio)](https://skillicons.dev)
