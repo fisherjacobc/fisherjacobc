@@ -20,9 +20,9 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=fisherjacobc&count_private=true&show_icons=true&hide=contribs&theme=vue-dark" height="165"/>
 </a>
 
-### 🠪 Founder of @TyraDigital
+### 🠪 Founder of [TyraDigital](https://github.com/tyradigital)
 ### 🠪 Advanced programmer in multiple languages
-### 🠪 Contributed to over 1.7 Million Visits on @Roblox
+### 🠪 Contributed to over 1.7 Million Visits on [Roblox](https://roblox.com)
 
 ## Things im pretty good at...i think
 [![Things im pretty good at...i think](https://skillicons.dev/icons?i=bash,cloudflare,css,express,git,html,java,js,ts,linux,lua,mongodb,nestjs,nextjs,nodejs,powershell,raspberrypi,react,tailwind,vscode,workers)](https://skillicons.dev)
