@@ -20,10 +20,12 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=fisherjacobc&count_private=true&show_icons=true&hide=contribs&theme=vue-dark" height="165"/>
 </a>
 
-### Founder of [@tyradigital](https://github.com/tyradigital)
+### 🠪 Founder of @TyraDigital
+### 🠪 Advanced programmer in multiple languages
+### 🠪 Contributed to over 1.7 Million Visits on @Roblox
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=bash,cloudflare,css,express,git,html,java,js,ts,linux,lua,mongodb,nestjs,nextjs,nodejs,powershell,raspberrypi,react,tailwind,vscode,workers)](https://skillicons.dev)
+## Things im pretty good at...i think
+[![Things im pretty good at...i think](https://skillicons.dev/icons?i=bash,cloudflare,css,express,git,html,java,js,ts,linux,lua,mongodb,nestjs,nextjs,nodejs,powershell,raspberrypi,react,tailwind,vscode,workers)](https://skillicons.dev)
 
-## I wish to learn much more about
-[![My Skills](https://skillicons.dev/icons?i=bash,cs,deno,dotnet,electron,py,redis,visualstudio)](https://skillicons.dev)
+## I wish to learn more about
+[![I wish to learn more about](https://skillicons.dev/icons?i=bash,cs,deno,dotnet,electron,py,redis,visualstudio)](https://skillicons.dev)
