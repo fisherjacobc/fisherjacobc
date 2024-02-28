@@ -22,7 +22,7 @@
 
 ### 🠪 Founder @ [FleetPoint](https://github.com/FleetPoint)
 ### 🠪 Advanced programmer in multiple languages
-### 🠪 Contributed to over 2.0 Million Visits on [Roblox](https://roblox.com)
+### 🠪 Contributed to over 2.3 Million Visits on [Roblox](https://roblox.com)
 
 ## Things im pretty good at
 [![Things im pretty good at...i think](https://skillicons.dev/icons?i=bash,cloudflare,css,express,git,html,java,js,ts,linux,lua,mongodb,nestjs,nextjs,nodejs,powershell,raspberrypi,react,tailwind,vscode,workers)](https://skillicons.dev)
